@@ -6,7 +6,7 @@
 | Platform | Windows / PC |
 | Steam game ID | 2764460 |
 | Functions | Resources / Production / Mining / Water / Factory layouts / World profiles |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## Setup
 

